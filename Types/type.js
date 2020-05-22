@@ -1,0 +1,1 @@
+export const GET_USER_ID='get_user_id';
